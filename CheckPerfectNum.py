@@ -20,7 +20,6 @@ def ListPerfectNums(upper):
     return PerfectNums
     
 
-
 if __name__ == "__main__":
     print(ListPerfectNums(9))
     print(ListPerfectNums(190))
